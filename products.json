@@ -1,0 +1,32 @@
+{
+    "product1": {
+        "title": "Product 1",
+        "price": 500,
+        "quantity": "1kg"
+    },
+    "product2": {
+        "title": "Product 2",
+        "price": 600,
+        "quantity": "1kg"
+    },
+    "product3": {
+        "title": "Product 3",
+        "price": 500,
+        "quantity": "1kg"
+    },
+    "product4": {
+        "title": "Product 4",
+        "price": 600,
+        "quantity": "1kg"
+    },
+    "product5": {
+        "title": "Product 5",
+        "price": 500,
+        "quantity": "1kg"
+    },
+    "product6": {
+        "title": "Product 6",
+        "price": 600,
+        "quantity": "1kg"
+    }
+}
